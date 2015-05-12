@@ -13,4 +13,4 @@ https://github.com/lsalter09/lsalter09.github.io/
 
 And, soon, you can see my customized homepage at:
 
-http://lsalter09.github.io/
+https://lsalter09.github.io/
